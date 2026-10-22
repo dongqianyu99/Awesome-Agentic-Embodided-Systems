@@ -327,6 +327,7 @@ Methods for acquiring and reusing skills across tasks, environments, and embodim
 - **RoboCat**: "RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2306.11706-b31b1b.svg)](https://arxiv.org/abs/2306.11706)
 - **LRLL**: "Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models". [![arXiv](https://img.shields.io/badge/arXiv-2406.18746-b31b1b.svg)](https://arxiv.org/abs/2406.18746) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gtziafas.github.io/LRLL_project/)
 - **ASPIRE**: "ASPIRE: Agentic /Skills Discovery for Robotics". [![arXiv](https://img.shields.io/badge/arXiv-2607.00272-b31b1b.svg)](https://arxiv.org/abs/2607.00272) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/aspire/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/NVlabs/ASPIRE)
+- **APPL**: "Agent Priors-guided Policy Learning". [![arXiv](https://img.shields.io/badge/arXiv-2609.35690-b31b1b.svg)](https://arxiv.org/abs/2609.35690) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://agentics-robotics.github.io/APPL/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Agentics-robotics/Agent-Priors-guided-Policy-Learning)
 
 ### Autonomous System and Policy Improvement
 
